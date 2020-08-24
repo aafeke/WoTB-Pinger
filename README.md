@@ -1,1 +1,0 @@
-# WoTB-Pinger
