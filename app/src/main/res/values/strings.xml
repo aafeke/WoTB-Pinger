@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WoTB Ping</string>
+    <string name="latency_eu">-</string>
+    <string name="latency_na">-</string>
+    <string name="latency_as">-</string>
+    <string name="latency_ru">-</string>
+    <string name="latency_ar">-</string>
+    <string name="latency_la">-</string>
+
+</resources>
